@@ -17,8 +17,8 @@ PrivSub3Cidr: 172.20.6.0/24
 region : "ap-south-1"
 
 # Zone Name
-zone1 :ap-south-1a
-zone2 :ap-south-1b
-zone3 :ap-south-1c
+zone1: ap-south-1a
+zone2: ap-south-1b
+zone3: ap-south-1c
 
 state:present
